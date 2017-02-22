@@ -1,6 +1,6 @@
 {
   "name": "mxgraph-js-npm",
-  "version": "3.7.0.1",
+  "version": "3.7.1",
   "description": "mxgraph Fork (jgraph/mxgraph)",
   "main": "dist/mxgraph.js",
   "directories": {
