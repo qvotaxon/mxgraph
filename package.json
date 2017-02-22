@@ -1,0 +1,23 @@
+{
+  "name": "mxgraph-js",
+  "version": "3.7.0.1",
+  "description": "mxgraph Fork (jgraph/mxgraph)",
+  "main": "dist/mxgraph.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dist": "gulp dist",
+    "deploy": "gulp deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://qvotaxo:qvotaxon@github.com/qvotaxon/mxgraph"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qvotaxon/mxgraph/issues"
+  },
+  "homepage": "https://github.com/qvotaxon/mxgraph#readme"
+}
