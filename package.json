@@ -2,7 +2,7 @@
   "name": "mxgraph-js-npm",
   "version": "3.7.1",
   "description": "mxgraph Fork (jgraph/mxgraph)",
-  "main": "dist/mxgraph.js",
+  "main": "javascript/mxClient.js",
   "directories": {
     "doc": "docs"
   },
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://qvotaxo:qvotaxon@github.com/qvotaxon/mxgraph"
+    "url": "git+https://qvotaxon:qvotaxon@github.com/qvotaxon/mxgraph"
   },
   "author": "",
   "license": "ISC",
